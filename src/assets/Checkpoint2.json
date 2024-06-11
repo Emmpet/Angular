@@ -1,0 +1,42 @@
+[{
+    "Titel":"John Wick",
+    "Release":"2014",
+    "Movieproduction":[{
+        "Name":"Chad Stahelski",
+        "Profession":"Director"
+    },{
+        "Name":"David Leitch",
+        "Profession":"Director"
+    },{
+        "Name":"Derek Kolstad",
+        "Profession":"Writer"
+    },{
+        "Name":"Keanu Reeves",
+        "Profession":"Actor"
+    },{
+        "Name":"Michael Nyqvist",
+        "Profession":"Actor"
+}]
+    
+},{
+    
+    "Titel":"Predator",
+    "Release":"1987",
+    "Movieproduction":[{
+        "Name":"John McTiernan",
+        "Profession":"Director"
+    },{
+        "Name":"Jim Thomas",
+        "Profession":"Writer"
+    },{
+        "Name":"John Thomas",
+        "Profession":"Writer"
+    },{
+        "Name":"Arnold Schwarzenegger",
+        "Profession":"Actor"
+    },{
+        "Name":"Carl Weathers",
+        "Profession":"Actor"
+}]
+    
+}]

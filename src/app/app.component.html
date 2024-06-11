@@ -1,0 +1,19 @@
+<h1>
+
+    Welcome to {{ title }}
+
+</h1>
+
+<div *ngFor="let info of arrproducts; let i = index">
+    <h1>{{info.Titel}}</h1>
+    <h2>{{info.Release}}</h2>
+    
+    <div *ngFor= "let item of info.Movieproduction; let i = index">
+        {{item.Profession}}:
+        {{item.Name}}
+
+    
+
+
+
+<router-outlet></router-outlet>
